@@ -1,0 +1,7 @@
+transformers>=4.46.1
+accelerate>=0.31.0
+torch
+numpy
+matplotlib
+jupyter
+torchvision
